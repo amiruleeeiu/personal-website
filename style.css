@@ -93,17 +93,29 @@ section{
     width: 40%;
     padding-bottom: 50px;
 }
-#footer-last{
-    padding-top: 200px;
-    font-size: 12px;
-}
+
 #founder{
     font-size: 12px;
+}
+#footer-icon{
+    margin: auto;
+    float: left;
+}
+#footer-icon img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 600px;
+    padding-top: 100px;
 }
 #footer-content{
     margin: auto;
     width: 10%;
     padding: 20px;
+}
+#footer-last{
+    padding-top: 130px;
+    font-size: 12px;
 }
 .footer{
     background-image: url("images/footer-bg.png");
