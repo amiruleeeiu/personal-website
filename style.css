@@ -46,7 +46,7 @@ h1{
     background-repeat: no-repeat;
 }
 section{
-    height:800px;
+    height:750px;
 }
 .biography{
     background-image: url("images/biography-bg.png");
@@ -59,7 +59,7 @@ section{
 }
 .latest{
     margin-left: 40px;
-    padding-top: 50px;
+    padding-top: 30px;
     width: 30%;
     float: left;
     margin-left: 20px;
@@ -73,6 +73,8 @@ section{
     background-repeat: no-repeat;
     background size 100%;
     background-position: top;
+    
+    
 }
 .latest-work h2{
     padding-top: 200px;
